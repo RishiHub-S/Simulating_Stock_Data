@@ -5,7 +5,7 @@
 IPOs, or Initial Public Offerings is the process of offering shares of a previously private corporation to the public. On the first 30 days, IPOs have high volatility and therefore, it is difficult to make decisions on when to enter and exit a market, or even enter the market at all. Simple python formulas that can be easily scaled up can be used to find the optimal entry/exit points within a 30 day investment horizon. Optimal entry/exit points are periods within an investment horizon that give the highest profit. 
 
 <aside>
-🔗 Check the source code of the program on GitHub. The following details will be based on the code.
+🔗 Check the source code of the program in this repository. The following details will be based on the code.
 
 </aside>
 

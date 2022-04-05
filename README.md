@@ -1,1 +1,1 @@
-# Determining Optimal Entry/Exit Points Using Generated Stock Data
+# Optimal Entry/Exit Points Using Generated Stock Data

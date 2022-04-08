@@ -41,6 +41,7 @@ There are two ways to use the source code. The web version (limited use of featu
     a. Go to this link: https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html.
    
     b. Download the .ipynb file in the source code, and upload it to the workspace in the link.
+    
     c. Run the code. If there is an error in the first cell of the code. Copy paste the following in the first cell.
       ```
       import scipy as sp
@@ -54,6 +55,8 @@ There are two ways to use the source code. The web version (limited use of featu
 2. Desktop:
     
     a. Search up Anaconda Navigator and download the app.
+    
     b. Open Jupyter Lab and upload the .ipynb file.
+    
     c. Run the code.
 

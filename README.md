@@ -6,7 +6,7 @@ IPOs, or Initial Public Offerings is the process of offering shares of a previou
 
 
 ```
-🔗 Check the source code of the program in this repository. The following details will be based on the code.
+🔗 Check the [source code](https://github.com/RishiHub-S/Simulating_Stock_Data/blob/main/StockDataV2.ipynb) of the program in this repository. The following details will be based on the code.
 ```
 
 ### Objective

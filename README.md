@@ -42,7 +42,7 @@ There are two ways to use the source code. The web version (limited use of featu
    
     b. Download the .ipynb file in the source code, and upload it to the workspace in the link.
     
-    c. Run the code. If there is an error in the first cell of the code. Copy paste the following in the first cell.
+    c. Run the code. If there is an error in the first cell of the code, copy paste the following in the first cell.
       ```
       import scipy as sp
       import numpy as np

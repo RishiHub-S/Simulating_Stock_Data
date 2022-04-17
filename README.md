@@ -23,6 +23,22 @@ The python program consists of two parts:
 2. One cannot enter and exit on the same day.
 3. The random prices created in the data is an attempt to replicate the random fluctuations of prices of the first few days of an IPO.
 
+### Visuals:
+
+
+1. Bar Graph showing the frequency of the optimal entry days.
+
+    ![image](https://user-images.githubusercontent.com/86998121/163735833-84b7f8a0-389f-4066-b051-154ed655bc63.png)
+
+ 2. Bar Graph showing the frequency of the optimal exit days.
+
+    ![image](https://user-images.githubusercontent.com/86998121/163735935-275f607b-62a1-4cc6-9a9d-d67e211f10d9.png)
+
+3. Scatter Plot showing the frequency of the optimal entry and exit days. The bigger the dot, the higher the frequency.
+    
+    ![image](https://user-images.githubusercontent.com/86998121/163735979-2861ac24-27fd-436e-a618-a9b64ede0050.png)
+
+
 ### Analysis/Observations
 
 When looking at the optimal entry/exit points found by the program:

@@ -49,10 +49,20 @@ When looking at the optimal entry/exit points found by the program:
 
 ### Installation/Use
 
-There are two ways to use the source code. The web version (limited use of features, and the desktop version (full use of features).
+There are two ways to use the source code. The desktop version (full use of features) and web version (limited use of features).
 
 
-1. Web Version: 
+
+1. Desktop (RECOMMENDED):
+    
+    a. Search up Anaconda Navigator and download the app.
+    
+    b. Open Jupyter Lab and upload the .ipynb file.
+    
+    c. Run the code.
+
+
+2. Web Version: 
     
     a. Go to this link: https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html.
    
@@ -66,13 +76,3 @@ There are two ways to use the source code. The web version (limited use of featu
       #import seaborn as sns
       #import matplotlib.pyplot as plt
       ```
-
-
-2. Desktop:
-    
-    a. Search up Anaconda Navigator and download the app.
-    
-    b. Open Jupyter Lab and upload the .ipynb file.
-    
-    c. Run the code.
-
